@@ -1,1 +1,1 @@
-print("Hello, world! Welcome to MSIS SPD.")
+print("Hello, world! Welcome to MSIS AiDD.")
