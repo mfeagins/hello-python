@@ -1,0 +1,3 @@
+# Example Log File
+# Logs record agent actions, decisions, and errors for review.
+# Example: Agent run history or error tracebacks.

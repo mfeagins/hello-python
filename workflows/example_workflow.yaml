@@ -1,0 +1,8 @@
+# Example Workflow
+# Workflows define sequences of automated steps for agents.
+# Example: Build, test, and deploy code using AI agents.
+steps:
+  - name: Generate code
+    agent: ExampleAgent
+  - name: Test code
+    agent: ExampleAgent

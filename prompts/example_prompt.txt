@@ -1,0 +1,3 @@
+# Example Prompt Template
+# Prompts guide AI agents in performing specific tasks.
+# Example: 'Generate a Python function that sorts a list.'

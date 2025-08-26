@@ -1,0 +1,6 @@
+# Example Data File
+# Data files provide input for agents or store results.
+# Example: Input dataset for code generation or analysis.
+name,value
+foo,123
+bar,456
