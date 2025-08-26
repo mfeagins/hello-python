@@ -1,3 +1,5 @@
+# Michael Feagins 8/26
+
 # AI-First Agentic Project Structure (for VS Code + GitHub Copilot)
 
 This project demonstrates a folder structure inspired by agentic, AI-First software development (as seen in Cursor AI), adapted for Visual Studio Code with GitHub Copilot in Agent mode.
